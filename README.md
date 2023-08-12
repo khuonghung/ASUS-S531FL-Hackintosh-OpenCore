@@ -1,5 +1,5 @@
 # ASUS Vivobook S15 S531FL Hackintosh
-![Alt text](https://github.com/khuonghung1423/ASUS-Vivobook-S15-S531FL-Hackintosh/raw/master/info.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/khuonghung/ASUS-S531FL-Hackintosh-OpenCore/master/info.png "ASUS Vivobook S15 S531FL Hackintosh")
 
 ## Specifications
 | Specifications | Detail                                                  |
